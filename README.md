@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ajithdev
+- 👋 Hi, I’m @Ajithdev C
 - 👀 I’m interested in Website and Software development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Open Source contibution
 - 📫 How to reach me through ajithdev444@gmail.com
 
